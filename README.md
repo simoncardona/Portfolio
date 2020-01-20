@@ -1,9 +1,9 @@
 # Simon Cardona - Portfolio
 
-First portfolio meant to learn and experiment, based on the projects developed in the class "Telling stories with data".
+First portfolio created to learn and experiment, based on the projects developed in the class "Telling stories with data".
 Simon Cardona (he, him, his)
 Full-time MBA at CMU - Tepper School of Business Class of 2020
-Member of the board of the Design and Business Club
+Member of the Board of the Design & Business Club
 
 # About me
 
