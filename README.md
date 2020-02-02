@@ -23,3 +23,7 @@ Here begins the journey. Let's do it!!!
 
 [Follow this link to see my work!](dataviz2.md)
 
+# Visualization Critique 2:
+
+[Follow this link to see my work!](vizcritique2.md)
+
