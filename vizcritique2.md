@@ -40,4 +40,4 @@ Here is my recreation of the visualization
 
 I used excel this time to build the column graphs, and included the dotted lines to show the growth in each category. Located the time (years) in the x-axis and the number of streamings in the y-axis. Changed the color pallete to different shades of blue to make it less colorful while still making a difference in the categories. Included three lines with separations of 0.5T. This allowd me to reduce the number of columns from 6 to 2, the number of colors and also (I believe so) I am getting the attention of the user to only one specific part of the graph. The numbers are easier to read and the Source is clear. 
 
-I hope I manage to to improve this visualization with this new approach. Let me know what do you think about it!
+I hope I manage to to improve this visualization with this new approach. Let me know your thoughts about it!
