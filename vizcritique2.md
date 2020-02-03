@@ -4,13 +4,13 @@
 
 Here is the [article](https://www.marketingcharts.com/industries/media-and-entertainment-111661) that accompanies the visualization. It appeared first on Marketing Charts webpage on January 24, 2020. The source of the data to build the visualization comes from Nielsen.
 
-I chose this visualization because I thought there was some room for improvement after watching it for a while. I am also interested in the music industry, specially the streaming business. It is a trending topic right now, and is changing the way marketing is done. I wanted to dive dip in the topic and that is how I found this graph. 
+I chose this visualization because I thought there was some room for improvement after watching it for a while. I am also interested in the music industry, specially the streaming business. It is a trending topic right now, and is changing the way marketing is done. I wanted to dive deep in the topic and that is how I found this graph. 
 
 # Part 2: Critique
 
 The visualization was not transmitting to me the title's message. The word "On-demand" appears 4 times in the graph. It took me some time to realize that the total was the sum of some information that was already present in the same visualization, the sum of audio and video, to be more specific. 
 
-After using the 7 criteria of Stephen Few, I found myself repeating the same two things: the visualization should give the audience a more direct sense of change, growth, in total and in each of the categories; there should be a way to reduce the number of columns in the chart so one can grab the focus of the reader faster. 
+After using the 7 criteria from Stephen Few, I found myself repeating the same two things: the visualization should give the audience a more direct sense of change, growth, in total and in each of the categories; there should be a way to reduce the number of columns in the chart so one can grab the focus of the reader faster. 
 
 # Part 3: Wireframing + Sketching
 
