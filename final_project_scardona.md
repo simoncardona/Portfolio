@@ -6,7 +6,7 @@ The following images show all my ideas about the project so far. They include th
 
 The first data set is from [Kaggle](https://www.kaggle.com/rojour/boston-results) with information from the Boston Marathon finishers since 2017. The data includes features such as gender, total time, country and times in different stages of the race (e.g. 5K, 10K, 15K, etc)
 
-The second data set is from [data.world] (https://data.world/scardona/datarunning/workspace/data-dictionary) which includes all the winners of all the marathons around the world since 1978. It includes features such as year, gender, marathon and age.
+The second data set is from [dataworld] (https://data.world/scardona/datarunning/workspace/data-dictionary) which includes all the winners of all the marathons around the world since 1978. It includes features such as year, gender, marathon and age.
 
 Finally, I will use my own data downloaded from apps such as [Garmin Connect](https://connect.garmin.com) and [Strava](https://www.strava.com). I am still figuring out how to download the data. I will make it available for everyone to review. 
 
