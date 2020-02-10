@@ -27,3 +27,7 @@ Here begins the journey. Let's do it!!!
 
 [Follow this link to see my work!](vizcritique2.md)
 
+# Final Project:
+
+[Follow this link to see my work!](finalproject.md)
+
