@@ -12,10 +12,7 @@ Finally, I will use my own data downloaded from apps such as [Garmin Connect](ht
 
 # Part 1: 
 
-![final_proj_1](https://user-images.githubusercontent.com/60082968/74130627-7b1c4900-4bb0-11ea-9ef4-836356a54a55.jpeg)
-![final_proj_2](https://user-images.githubusercontent.com/60082968/74130633-7f486680-4bb0-11ea-839a-052b9ed15733.jpeg)
-![final_proj_3](https://user-images.githubusercontent.com/60082968/74130638-82dbed80-4bb0-11ea-9a2d-fca8ed9ab944.jpeg)
-![final_proj_4](https://user-images.githubusercontent.com/60082968/74130643-866f7480-4bb0-11ea-8796-9415da48a9be.jpeg)
+![final_proj_1](https://user-images.githubusercontent.com/60082968/74131143-b1a69380-4bb1-11ea-8cae-903ae7ca886c.jpeg)
 
 Looking forward to next steps!!
 
