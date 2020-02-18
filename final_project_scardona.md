@@ -10,7 +10,7 @@ The second data set is from [data.world](https://data.world/scardona/datarunning
 
 Finally, I will use my own data downloaded from apps such as [Garmin Connect](https://connect.garmin.com) and [Strava](https://www.strava.com). I am still figuring out how to download the data. I will make it available for everyone to review. 
 
-# Part 1: 
+# Part 1: Preliminary Sketchboards
 
 <img width="540" alt="image" src="https://user-images.githubusercontent.com/60082968/74165513-3796fe80-4bf3-11ea-8436-632039014ce3.png">
 
@@ -21,5 +21,21 @@ Finally, I will use my own data downloaded from apps such as [Garmin Connect](ht
 <img width="538" alt="image" src="https://user-images.githubusercontent.com/60082968/74165883-bbe98180-4bf3-11ea-824a-a3f02b6ac050.png">
 
 Looking forward to next steps!!
+
+# Part 2: Wireframes and User Research
+
+<img width="542" alt="image" src="https://user-images.githubusercontent.com/60082968/74697313-55063280-51c8-11ea-8396-5d71734d0b2f.png">
+
+<img width="539" alt="image" src="https://user-images.githubusercontent.com/60082968/74697332-69e2c600-51c8-11ea-87b1-fbf5c34bb0f5.png">
+
+<img width="532" alt="image" src="https://user-images.githubusercontent.com/60082968/74697353-7c5cff80-51c8-11ea-95df-e87f840aa224.png">
+
+<img width="534" alt="image" src="https://user-images.githubusercontent.com/60082968/74697381-8da60c00-51c8-11ea-83f3-3ced6da93f88.png">
+
+<img width="536" alt="image" src="https://user-images.githubusercontent.com/60082968/74697417-a31b3600-51c8-11ea-9f6a-d6e6c7d0628d.png">
+
+<img width="537" alt="image" src="https://user-images.githubusercontent.com/60082968/74697440-b5956f80-51c8-11ea-9fcd-c626fc760d4e.png">
+
+Almost there! 
 
 
